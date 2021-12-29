@@ -2,7 +2,6 @@
 
 <addons>
 
-<!-- 5.6- Telemedia 2.0 -->
 <addon id="plugin.video.telemedia"
 	   name="Telemedia 2.0"
 	   version="2.1.5"
