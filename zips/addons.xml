@@ -122,7 +122,7 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
 
 <!-- 3- Scripts -->
 	
-<!-- 3.1- resolveurl.xxx - Adult Resolver SMR Extension -->
+<!-- 3.1- resolveurl.xxx - Adult Resolver SMR Extension - This Addon needed for Cumination -->
 <addon id="script.module.resolveurl.xxx" version="2.1.17" name="Adult Resolver SMR Extension" provider-name="gujal">
 	<requires>
 		<!-- <import addon="xbmc.python" version="2.1.0"/> -->
