@@ -5,7 +5,7 @@
 <!-- 1- plugin.video -->
 
 <!-- 1.1- Cumination -->
-<addon id="plugin.video.cumination" name="Cumination" provider-name="Cumination" version="1.1.39">
+<addon id="plugin.video.cumination" name="Cumination" provider-name="Cumination" version="1.1.41">
     <requires>
         <import addon="script.module.six" />
         <import addon="script.module.kodi-six" />
@@ -164,7 +164,7 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
 <!-- 3- Scripts -->
 	
 <!-- 3.1- resolveurl.xxx - Adult Resolver SMR Extension - This Addon needed for Cumination -->
-<addon id="script.module.resolveurl.xxx" version="2.1.17" name="Adult Resolver SMR Extension" provider-name="gujal">
+<addon id="script.module.resolveurl.xxx" version="2.1.23" name="Adult Resolver SMR Extension" provider-name="gujal">
 	<requires>
 		<!-- <import addon="xbmc.python" version="2.1.0"/> -->
         <import addon="script.module.resolveurl" version="5.1.0" />
@@ -178,12 +178,11 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
 </addon>
 
 <!-- 3.2- ResolveURL - This Addon needed for Cumination -->
-<addon id="script.module.resolveurl" name="ResolveURL" version="5.1.59" provider-name="gujal">
+<addon id="script.module.resolveurl" name="ResolveURL" version="5.1.67" provider-name="gujal">
     <requires>
         <!-- <import addon="xbmc.python" version="3.0.0" /> -->
         <import addon="script.module.six" />
         <import addon="script.module.kodi-six" />
-        <import addon="script.module.certifi" />
         <import addon="plugin.video.youtube" optional="true" />
         <import addon="script.module.python.twitch" optional="true" />
         <import addon="plugin.googledrive" optional="true" />
